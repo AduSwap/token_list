@@ -1,34 +1,65 @@
 {
-    "name": "AduSwap Default List",
-    "timestamp": "2021-01-21T23:57:10.982Z",
-    "version": {
-      "major": 2,
-      "minor": 0,
-      "patch": 0
+  "name": "AduSwap Default List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "aduswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped ACA",
+      "address": "0xE1D4B9Ad8957c84997A7F7A9501772B8D4Eb3384",
+      "symbol": "WACA",
+      "decimals": 18,
+      "chainId": 595,
+      "logoURI": "https://resources.acala.network/tokens/ACA.png"
     },
-    "tags": {},
-    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    "keywords": [
-      "aduswap",
-      "default"
-    ],
-    "tokens": [
-      {
-        "name": "Wrapped ACA",
-        "address": "0xE1D4B9Ad8957c84997A7F7A9501772B8D4Eb3384",
-        "symbol": "WACA",
-        "decimals": 18,
-        "chainId": 595,
-        "logoURI": "https://assets.coingecko.com/coins/images/20634/small/upOKBONH_400x400.jpg?1647420536"
-      },
-      {
-        "name": "AUSD",
-        "address": "0x0000000000000000000100000000000000000001",
-        "symbol": "aUSD",
-        "decimals": 12,
-        "chainId": 595,
-        "logoURI": "https://assets.coingecko.com/coins/images/20634/small/upOKBONH_400x400.jpg?1647420536"
-      }
-    ]
-  }
-  
+    {
+      "name": "AUSD",
+      "address": "0x0000000000000000000100000000000000000001",
+      "symbol": "aUSD",
+      "decimals": 12,
+      "chainId": 595,
+      "logoURI": "https://resources.acala.network/tokens/AUSD.png"
+    },
+    {
+      "name": "Polkadot",
+      "address": "0x0000000000000000000100000000000000000002",
+      "symbol": "DOT",
+      "decimals": 12,
+      "chainId": 595,
+      "logoURI": "https://resources.acala.network/tokens/DOT.png"
+    },
+    {
+      "name": "Liquid DOT",
+      "address": "0x0000000000000000000100000000000000000003",
+      "symbol": "LDOT",
+      "decimals": 12,
+      "chainId": 595,
+      "logoURI": "https://resources.acala.network/tokens/LDOT.png"
+    },
+    {
+      "name": "Kusama",
+      "address": "0x0000000000000000000100000000000000000082",
+      "symbol": "KSM",
+      "decimals": 12,
+      "chainId": 595,
+      "logoURI": "https://resources.acala.network/tokens/KSM.png"
+    },
+    {
+      "name": "Liquid Kusama",
+      "address": "0x0000000000000000000100000000000000000083",
+      "symbol": "LKSM",
+      "decimals": 12,
+      "chainId": 595,
+      "logoURI": "https://resources.acala.network/tokens/LKSM.png"
+    }
+  ]
+}
